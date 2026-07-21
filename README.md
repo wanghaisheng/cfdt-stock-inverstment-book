@@ -244,250 +244,162 @@ CFDT不回答：
 
 ---
 
-# 本书结构
+# 本书结构（修订版）
+
+> 当前仓库内容已经从早期七卷框架扩展为八卷结构。详细章节映射见 `toc.md` 与 `chapter-map.md`，当前修订进度见 `PROGRESS.md`。
 
 ---
 
 # 第一卷
-# CFDT Foundations
-## 基础理论篇
+# Foundation
+## 交易底层认知
 
 目标：
 
-建立交易世界观。
+建立 CFDT 的交易世界观。
 
 内容：
 
-- 什么是CFDT
-- 为什么资金行为重要
-- 成长股交易逻辑
-- 市场周期
-- 产业趋势分析
-
+- 市场不是价格，而是资金共识
+- 为什么先选产业，而不是先选股票
+- 资金生命周期
+- 产业、资金、成交额与趋势的底层关系
 
 ---
 
 # 第二卷
-# Market Intelligence
-## 市场认知篇
+# Market & Capital
+## 市场与资金识别
 
 目标：
 
-理解市场环境。
+识别市场环境、参与者结构与资金行为。
 
 内容：
 
-- 牛熊周期
-- 风险偏好
-- 科技成长股生态
-- 资金轮动
-- 市场状态判断
-
+- 市场状态
+- 市场参与者
+- 资金潜伏
+- 成交额跃迁
+- 三阶段资金确认
+- 仓位管理作为市场状态的函数
 
 ---
 
 # 第三卷
-# Growth Stock System
-## 科技成长股交易体系
+# Strategy & Discipline
+## 交易策略与纪律
 
 目标：
 
-建立选股框架。
+建立从买入到卖出的完整交易闭环。
 
 内容：
 
-- 产业趋势
-- 国产替代逻辑
-- 稀缺赛道
-- 公司成长质量
-- 成长股估值
-
+- 买入系统
+- 加仓系统
+- 卖出系统
+- 顶部识别
+- 回撤控制
+- 交易纪律
 
 ---
 
 # 第四卷
-# Capital Flow System
-## 资金行为系统
+# Portfolio & Decision Engine
+## 组合管理与决策引擎
 
 目标：
 
-理解机构资金。
+把单股交易方法升级为组合权重、市场周期与综合决策系统。
 
 内容：
 
-- 成交额跃迁
-- 资金持续性
-- 机构吸筹模型
-- 假流入识别
-- 主升浪判断
-
+- 百万资金组合模型
+- 市场周期切换
+- 科技成长股专用模型
+- 成交额跃迁 V2.0
+- CFDT 完整交易决策引擎
 
 ---
 
 # 第五卷
-# Trading Execution System
-## 交易执行体系
+# Systemization
+## 系统化与工具化
 
 目标：
 
-解决：
-
-什么时候买。
-
-什么时候卖。
+把 CFDT 从交易方法论推进到数据库、AI 助手与半自动系统。
 
 内容：
 
-- 建仓策略
-- 加仓策略
-- 主升浪管理
-- 减仓策略
-- 止损与止盈
-
+- 半自动交易系统
+- 交易数据库
+- AI 交易助手
+- CFDT Trader OS V1.0 总纲
 
 ---
 
 # 第六卷
-# Trading Room Workflow
-## 交易室工作流
+# Trading Room Playbook
+## 交易室执行手册
 
 目标：
 
-建立每日执行体系。
+把静态交易规则转化为每天可以执行的交易室流程。
 
 内容：
 
-- 每日复盘流程
-- 自选股管理
-- 交易计划
-- 盘中决策
-- 收盘总结
-
+- 交易室工作流
+- 股票发现到买入的完整旅程
+- 一笔交易生命周期
+- 正帆科技完整实战复盘
+- 同花顺实盘操作系统
+- 盘中决策树
+- 卖出执行手册
+- 牛股持有管理
+- 交易错误数据库
+- 年度交易运营系统
 
 ---
 
 # 第七卷
-# Advanced System
-## 高级进化篇
+# Advanced AI System
+## 高级 AI 系统
 
 目标：
 
-把交易体系升级为 AI 操作系统。
+用 AI、代码、数据与 Dashboard，把人的交易系统外化成可运行的软件系统。
+
+内容：
+
+- 数据采集层
+- Research Agent
+- 量能跃迁引擎
+- 机构吸筹识别 Agent
+- 多因子评分引擎
+- Risk Manager Agent
+- Trading Review Agent
+- Trader Dashboard
+- Personal Trading Database
+- Browser Intelligence System
 
 ---
 
-## Chapter 36
+# 第八卷
+# Trading Memory & Coaching
+## 交易记忆与训练系统
 
-CFDT Research Agent
+目标：
 
-AI市场研究员。
+把真实交易行为沉淀为可审计、可回放、可训练、可进化的数据资产。
 
+内容：
 
----
-
-## Chapter 37
-
-Volume Transition Engine
-
-量能跃迁引擎。
-
-解决：
-
-如何发现资金进入。
-
-
----
-
-## Chapter 38
-
-Smart Money Detection Agent
-
-机构吸筹识别。
-
-解决：
-
-资金到底在做什么。
-
-
----
-
-## Chapter 39
-
-Stock Intelligence Engine
-
-多因子股票评分。
-
-解决：
-
-哪些股票值得研究。
-
-
----
-
-## Chapter 40
-
-Risk Manager Agent
-
-风险管理智能体。
-
-解决：
-
-如何避免：
-
-173 → 96。
-
-
----
-
-## Chapter 41
-
-Trading Review Agent
-
-交易复盘智能体。
-
-解决：
-
-如何持续进化。
-
-
----
-
-## Chapter 42
-
-CFDT Trader Dashboard
-
-交易操作台。
-
-解决：
-
-如何每天执行系统。
-
-
----
-
-## Chapter 43
-
-Personal Trading Database
-
-个人交易数据库。
-
-解决：
-
-如何积累个人Alpha。
-
-
----
-
-## Chapter 44
-
-Browser Intelligence System
-
-AI浏览器研究系统。
-
-解决：
-
-如何利用ChatGPT + Codex构建自动研究员。
-
+- 交割单系统
+- 交易回放系统
+- AI 交易教练系统
+- 第八卷扩展章节（待规划）
 
 ---
 
